@@ -36,5 +36,4 @@ Understand the fundamentals of UI/UX design.
 - `Order Form` — Allows users to select meals and place orders.
 
 ## Demo
-
- ![](https://github.com/FilonenkoDima/omnifood/blob/master/demo.gif)
+ ![](https://github.com/FilonenkoDima/omnifood/blob/main/demo.gif)
